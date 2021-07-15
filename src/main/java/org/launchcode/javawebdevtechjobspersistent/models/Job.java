@@ -2,7 +2,6 @@ package org.launchcode.javawebdevtechjobspersistent.models;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 

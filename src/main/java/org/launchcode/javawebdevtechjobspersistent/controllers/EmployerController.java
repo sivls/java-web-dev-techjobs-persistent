@@ -6,7 +6,6 @@ import org.springframework.ui.Model;
 import org.springframework.validation.Errors;
 import org.springframework.web.bind.annotation.*;
 import org.launchcode.javawebdevtechjobspersistent.models.data.EmployerRepository;
-import org.launchcode.javawebdevtechjobspersistent.models.data.JobRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.validation.Valid;
